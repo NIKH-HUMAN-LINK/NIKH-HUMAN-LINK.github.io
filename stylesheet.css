@@ -137,7 +137,9 @@ header {
 
 .lesson-icon {
   position: relative;
-  border-radius: 15px;
+  border-radius: 25px;
+  width: 100px;
+  height: 100px;
 }
 
 .lesson-icon p {
