@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(IMG8544.PNG);
+  background-image: url(IME/IMG_8544.JPG);
   background-size: cover;
   color: white;
   text-align: center;
@@ -137,6 +137,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  border-radius: 15px;
 }
 
 .lesson-icon p {
