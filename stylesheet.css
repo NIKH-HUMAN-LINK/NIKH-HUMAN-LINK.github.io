@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: url(IME/IMG_8544.JPG);
   background-size: cover;
   color: white;
   text-align: center;
@@ -86,7 +86,7 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
